@@ -30,3 +30,7 @@ Your app is ready to be deployed!
 ### Netlify
 
 [netlify url](https://playful-malasada-bb5290.netlify.app)
+
+### Vercel
+
+[vercel url](https://chamanix.vercel.app/)
